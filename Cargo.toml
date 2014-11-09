@@ -1,0 +1,11 @@
+[package]
+
+name = "rustup"
+version = "0.0.1"
+authors = ["dk<whispermemory@github.com>"]
+
+[dependencies.nickel]
+
+git = "https://github.com/nickel-org/nickel.rs.git"
+
+
